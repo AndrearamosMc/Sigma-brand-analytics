@@ -30,17 +30,6 @@ The main goals of this project were to:
 
 ---
 
-## My Contribution
-This was a collaborative project. My individual contributions included:
-
-- Designing and documenting **marketing and brand KPIs**
-- Linking KPIs to business outcomes such as **EBITDA, market share, and CAGR**
-- Supporting the definition of **risk categories and mitigation strategies**
-- Contributing to the structure and logic of the **Power BI dashboard**
-- Translating insights into clear business recommendations
-
----
-
 ## KPIs & Analytics Approach
 
 ### KPI Framework
